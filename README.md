@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **basavakusumanjali35@gmail.com**
 
-- ⚡ Fun fact **I am passionate**
+- ⚡ Fun fact **I am passionate about exploring new technologies and finding innovative solutions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
