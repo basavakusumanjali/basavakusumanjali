@@ -1,3 +1,4 @@
+![logo](https://github.com/basavakusumanjali/basavakusumanjali/blob/main/NEW.png)
 <h1 align="center">Hi 👋, I'm Basava Kusumanjali</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/programmer-working-web-development-code-engineer-programming-python-php-java-script-computer_90220-249.jpg">
