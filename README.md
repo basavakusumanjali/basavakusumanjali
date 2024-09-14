@@ -5,6 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=basavakusumanjali&label=Profile%20views&color=0e75b6&style=flat" alt="basavakusumanjali" /> </p>
 
 - 🌱 I’m currently learning **Data Analytics, Data Science**
+- 👨‍💻 All of my projects are available at https://www.linkedin.com/in/basava-kusumanjali
 
 - 📫 How to reach me **basavakusumanjali35@gmail.com**
 
